@@ -1,0 +1,35 @@
+ body{
+     font-family: sans-serif;
+     color: #333;
+ }
+ a{
+    color: #333;
+    text-decoration: none;
+    text-align: left;
+ }
+ .product{
+    color: red;
+    text-align: left;
+
+ }
+ .container{
+     max-width: 700px;
+     margin: auto;
+     text-align: center;
+ }
+ .card {
+     border: solid 1px #333;
+     width: 560px;
+     padding: 5px;
+     
+ }
+ .card img {
+         border: solid 1px #ccc;
+     }
+
+ .payment-form{
+    margin-top: 15px;
+    border: 2px #333;
+    padding: 3px;
+
+ }    
